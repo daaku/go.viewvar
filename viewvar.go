@@ -1,3 +1,4 @@
+// Package viewvar provides HTTP handlers for viewing expvar data.
 package viewvar
 
 import (
